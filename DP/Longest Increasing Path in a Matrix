@@ -1,0 +1,35 @@
+class Solution {
+public:
+    int longestPath(int i, int j, int prev, vector<vector<int>>& matrix, vector<vector<int>> &dp){
+        int m=matrix.size();
+        int n=matrix[0].size();
+        if(i>m-1 || j>n-1 || i<0 || j<0) return 0;
+        if(matrix[i][j]<=prev) return 0;
+        if(dp[i][j] !=-1) return dp[i][j];
+
+        //left
+        int left= 1 + longestPath(i, j-1, matrix[i][j], matrix, dp);
+        //right
+        int right= 1 + longestPath(i, j+1, matrix[i][j], matrix, dp);
+        //up
+        int up= 1 + longestPath(i-1, j, matrix[i][j], matrix, dp);
+        //down
+        int down= 1 + longestPath(i+1, j, matrix[i][j], matrix, dp);
+
+        return dp[i][j]= max({left, right, up, down});
+    }
+
+    int longestIncreasingPath(vector<vector<int>>& matrix) {
+        int ans=0;
+        int m=matrix.size();
+        int n=matrix[0].size();
+        vector<vector<int>>dp(m, vector<int>(n, -1));
+
+        for(int i=0; i<m; i++){
+            for(int j=0; j<n; j++){
+                ans=max(ans, longestPath(i, j, INT_MIN, matrix, dp));
+            }
+        }
+        return ans;
+    }
+};
