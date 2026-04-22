@@ -1,0 +1,30 @@
+class Solution {
+public:
+    void helper(int open, int close, int n, string str, vector<string>&ans){
+        if(str.size()>=n*2){
+            ans.push_back(str);
+            return;
+        }
+
+        //open
+        if(open < n){
+            str.push_back('(');
+            helper(open+1, close, n, str, ans);
+            str.pop_back();
+        }
+
+        //close
+        if(close < open){
+            str.push_back(')');
+            helper(open, close+1, n, str, ans);
+            str.pop_back();
+        }
+    }
+
+
+    vector<string> generateParenthesis(int n) {
+        vector<string>ans;
+        helper(0,0,n,"",ans);
+        return ans;
+    }
+};
