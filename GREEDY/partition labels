@@ -1,0 +1,21 @@
+class Solution {
+public:
+    vector<int> partitionLabels(string s) {
+        int n=s.size(), st=0, end=0;
+        vector<int>ans;
+        vector<int>lastIdx(26,-1);
+        for(int i=0; i<n; i++){//stored last idx of each char
+            lastIdx[s[i]-'a']=i;
+        }
+
+        while(st<n){
+            end=lastIdx[s[st]-'a'];
+            for(int j=st+1; j<=end; j++){
+                end=max(end,lastIdx[s[j]-'a']);
+            }
+            ans.push_back(end-st+1);
+            st=end+1;
+        }
+        return ans;
+    }
+};
