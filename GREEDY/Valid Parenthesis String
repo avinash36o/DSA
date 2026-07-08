@@ -1,0 +1,21 @@
+class Solution {
+public:
+    bool checkValidString(string s) {
+        int maxOpen=0, minOpen=0;
+        for(char c: s){
+            if(c=='('){
+                maxOpen++; minOpen++;
+            }
+            if(c==')'){
+                maxOpen--;
+                minOpen=max(minOpen-1, 0);
+            }
+            if(c=='*'){
+                maxOpen++;
+                minOpen=max(minOpen-1, 0);
+            }
+            if(maxOpen<0)return false;
+        }
+        return minOpen==0;
+    }
+}; 
