@@ -10,3 +10,6 @@ All solved problems organized by pattern/category.
 - [Coin Change II](./LeetCode/Medium/Coin%20Change%20II) - *Medium*
 - [Longest Palindromic Substring](./LeetCode/Medium/Longest%20Palindromic%20Substring) - *Medium*
 - [Coin Change](./LeetCode/Medium/Coin%20Change) - *Medium*
+
+## Greedy
+- [Best Time to Buy and Sell Stock II](./LeetCode/Medium/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II) - *Medium*
