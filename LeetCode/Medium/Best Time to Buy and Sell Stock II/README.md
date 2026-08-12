@@ -9,11 +9,11 @@
 | **Tags** | Array, Dynamic Programming, Greedy |
 | **Link** | [View Problem](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |
 | **Runtime** | 0 ms |
-| **Memory** | 20.1 MB |
+| **Memory** | 20.3 MB |
 
 ## Approach
 
-buy=prices[0]. whenever you see any day whose price is greater than the next day just sell it and buy the next day stock.
+todayProfit=prices[i]-prices[i-1]. if todays profit is greater than 0 then add it with previous profit and store it in curr profit. else curr profit is the previous profit
 
 ## Problem Description
 
