@@ -8,12 +8,13 @@
 | **Solved On** | August 14, 2026 |
 | **Tags** | Array, Dynamic Programming, Matrix |
 | **Link** | [View Problem](https://leetcode.com/problems/minimum-path-sum/) |
-| **Runtime** | 7 ms |
-| **Memory** | 16.6 MB |
+| **Runtime** | 3 ms |
+| **Memory** | 15.1 MB |
 
 ## Approach
 
-go right and down only since it will be the path path for the bottom right element. memoise the result also
+you can only move come to a cell from left or top. so cost to each cell is min of top, left + cell itself
+
 
 ## Problem Description
 
