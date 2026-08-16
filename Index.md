@@ -17,3 +17,6 @@ All solved problems organized by pattern/category.
 
 ## Graphs
 - [Number of Provinces](./LeetCode/Medium/Number%20of%20Provinces) - *Medium*
+
+## Arrays & Hashing
+- [Q1. Nearest Available Drone](./LeetCode/Easy/Q1%20Nearest%20Available%20Drone) - *Easy*
