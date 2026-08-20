@@ -22,3 +22,6 @@ All solved problems organized by pattern/category.
 ## Arrays & Hashing
 - [Q2. Minimize the Maximum Waiting Time at Synchronized Traffic Lights](./LeetCode/Medium/Q2%20Minimize%20the%20Maximum%20Waiting%20Time%20at%20Synchronized%20Traffic%20Lights) - *Medium*
 - [Q1. Nearest Available Drone](./LeetCode/Easy/Q1%20Nearest%20Available%20Drone) - *Easy*
+
+## BST
+- [Minimum Distance Between BST Nodes](./LeetCode/Easy/Minimum%20Distance%20Between%20BST%20Nodes) - *Easy*
