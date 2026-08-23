@@ -20,6 +20,7 @@ All solved problems organized by pattern/category.
 - [Number of Provinces](./LeetCode/Medium/Number%20of%20Provinces) - *Medium*
 
 ## Arrays & Hashing
+- [Find All Numbers Disappeared in an Array II](./LeetCode/Medium/Find%20All%20Numbers%20Disappeared%20in%20an%20Array%20II) - *Medium*
 - [Q2. Minimize the Maximum Waiting Time at Synchronized Traffic Lights](./LeetCode/Medium/Q2%20Minimize%20the%20Maximum%20Waiting%20Time%20at%20Synchronized%20Traffic%20Lights) - *Medium*
 - [Q1. Nearest Available Drone](./LeetCode/Easy/Q1%20Nearest%20Available%20Drone) - *Easy*
 
