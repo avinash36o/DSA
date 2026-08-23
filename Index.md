@@ -26,3 +26,6 @@ All solved problems organized by pattern/category.
 
 ## BST
 - [Minimum Distance Between BST Nodes](./LeetCode/Easy/Minimum%20Distance%20Between%20BST%20Nodes) - *Easy*
+
+## string
+- [Check ASCII Palindromic](./LeetCode/Easy/Check%20ASCII%20Palindromic) - *Easy*
