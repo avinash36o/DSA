@@ -13,6 +13,7 @@ All solved problems organized by pattern/category.
 - [Coin Change](./LeetCode/Medium/Coin%20Change) - *Medium*
 
 ## Greedy
+- [Longest Subarray With at Most K Distinct Prime Factors](./LeetCode/Medium/Longest%20Subarray%20With%20at%20Most%20K%20Distinct%20Prime%20Factors) - *Medium*
 - [Maximum Gap Between Stations](./LeetCode/Medium/Maximum%20Gap%20Between%20Stations) - *Medium*
 - [Best Time to Buy and Sell Stock II](./LeetCode/Medium/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II) - *Medium*
 
