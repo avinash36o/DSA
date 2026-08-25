@@ -30,3 +30,6 @@ All solved problems organized by pattern/category.
 
 ## string
 - [Check ASCII Palindromic](./LeetCode/Easy/Check%20ASCII%20Palindromic) - *Easy*
+
+## prefix sum
+- [Contiguous Array](./LeetCode/Medium/Contiguous%20Array) - *Medium*
