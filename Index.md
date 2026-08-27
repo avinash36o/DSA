@@ -32,4 +32,5 @@ All solved problems organized by pattern/category.
 - [Check ASCII Palindromic](./LeetCode/Easy/Check%20ASCII%20Palindromic) - *Easy*
 
 ## prefix sum
+- [Count Submatrices With Equal Frequency of X and Y](./LeetCode/Medium/Count%20Submatrices%20With%20Equal%20Frequency%20of%20X%20and%20Y) - *Medium*
 - [Contiguous Array](./LeetCode/Medium/Contiguous%20Array) - *Medium*
