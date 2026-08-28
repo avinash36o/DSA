@@ -13,6 +13,7 @@ All solved problems organized by pattern/category.
 - [Coin Change](./LeetCode/Medium/Coin%20Change) - *Medium*
 
 ## Greedy
+- [Maximum Number of Operations to Move Ones to the End](./LeetCode/Medium/Maximum%20Number%20of%20Operations%20to%20Move%20Ones%20to%20the%20End) - *Medium*
 - [Minimum Cost for Cutting Cake I](./LeetCode/Medium/Minimum%20Cost%20for%20Cutting%20Cake%20I) - *Medium*
 - [Longest Subarray With at Most K Distinct Prime Factors](./LeetCode/Medium/Longest%20Subarray%20With%20at%20Most%20K%20Distinct%20Prime%20Factors) - *Medium*
 - [Maximum Gap Between Stations](./LeetCode/Medium/Maximum%20Gap%20Between%20Stations) - *Medium*
