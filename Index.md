@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Math & Geometry
+- [Find the Count of Numbers Which Are Not Special](./LeetCode/Medium/Find%20the%20Count%20of%20Numbers%20Which%20Are%20Not%20Special) - *Medium*
 - [Coin Change Ii](./LeetCode/Unknown/Coin%20Change%20Ii) - *Unknown*
 
 ## Dynamic Programming
