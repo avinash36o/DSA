@@ -21,6 +21,7 @@ All solved problems organized by pattern/category.
 - [Best Time to Buy and Sell Stock II](./LeetCode/Medium/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II) - *Medium*
 
 ## Graphs
+- [Shortest Distance After Road Addition Queries I](./LeetCode/Medium/Shortest%20Distance%20After%20Road%20Addition%20Queries%20I) - *Medium*
 - [Number of Provinces](./LeetCode/Medium/Number%20of%20Provinces) - *Medium*
 
 ## Arrays & Hashing
