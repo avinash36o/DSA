@@ -38,3 +38,6 @@ All solved problems organized by pattern/category.
 ## prefix sum
 - [Count Submatrices With Equal Frequency of X and Y](./LeetCode/Medium/Count%20Submatrices%20With%20Equal%20Frequency%20of%20X%20and%20Y) - *Medium*
 - [Contiguous Array](./LeetCode/Medium/Contiguous%20Array) - *Medium*
+
+## Trees
+- [Count the Number of Good Nodes](./LeetCode/Medium/Count%20the%20Number%20of%20Good%20Nodes) - *Medium*
