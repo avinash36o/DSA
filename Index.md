@@ -9,6 +9,7 @@ All solved problems organized by pattern/category.
 - [Coin Change Ii](./LeetCode/Unknown/Coin%20Change%20Ii) - *Unknown*
 
 ## Dynamic Programming
+- [Maximum Multiplication Score](./LeetCode/Medium/Maximum%20Multiplication%20Score) - *Medium*
 - [Minimum Path Sum](./LeetCode/Medium/Minimum%20Path%20Sum) - *Medium*
 - [Coin Change II](./LeetCode/Medium/Coin%20Change%20II) - *Medium*
 - [Longest Palindromic Substring](./LeetCode/Medium/Longest%20Palindromic%20Substring) - *Medium*
