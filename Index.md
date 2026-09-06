@@ -35,6 +35,7 @@ All solved problems organized by pattern/category.
 - [Minimum Distance Between BST Nodes](./LeetCode/Easy/Minimum%20Distance%20Between%20BST%20Nodes) - *Easy*
 
 ## string
+- [Q1. Count Rotations With Exactly K Equal Adjacent Pairs](./LeetCode/Easy/Q1%20Count%20Rotations%20With%20Exactly%20K%20Equal%20Adjacent%20Pairs) - *Easy*
 - [Check ASCII Palindromic](./LeetCode/Easy/Check%20ASCII%20Palindromic) - *Easy*
 
 ## prefix sum
