@@ -45,3 +45,6 @@ All solved problems organized by pattern/category.
 
 ## Trees
 - [Count the Number of Good Nodes](./LeetCode/Medium/Count%20the%20Number%20of%20Good%20Nodes) - *Medium*
+
+## Heap / Priority Queue
+- [K-th Nearest Obstacle Queries](./LeetCode/Medium/K-th%20Nearest%20Obstacle%20Queries) - *Medium*
