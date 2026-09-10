@@ -49,3 +49,6 @@ All solved problems organized by pattern/category.
 
 ## Heap / Priority Queue
 - [K-th Nearest Obstacle Queries](./LeetCode/Medium/K-th%20Nearest%20Obstacle%20Queries) - *Medium*
+
+## Binary Search
+- [Minimum Number of Seconds to Make Mountain Height Zero](./LeetCode/Medium/Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero) - *Medium*
