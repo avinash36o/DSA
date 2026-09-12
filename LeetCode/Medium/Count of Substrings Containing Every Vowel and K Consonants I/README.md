@@ -5,21 +5,23 @@
 | **Platform** | LeetCode |
 | **Difficulty** | Medium |
 | **Language** | cpp |
-| **Solved On** | September 11, 2026 |
+| **Solved On** | September 12, 2026 |
 | **Tags** | Hash Table, String, Sliding Window |
 | **Link** | [View Problem](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-i/) |
-| **Runtime** | 119 ms |
-| **Memory** | 21.7 MB |
+| **Runtime** | 4 ms |
+| **Memory** | 10.3 MB |
 
 ## Approach
 
-brute force. just find all the substring and check if they are valid
+count n(substring containing atleast k consonant and all vowel) and n(substring containing atleast k +1 consonant and all vowel ). then substarct them
+
+
 
 ## Problem Description
 
 <p>You are given a string <code>word</code> and a <strong>non-negative</strong> integer <code>k</code>.</p>
 
-<p>Return the total number of <span data-keyword="substring-nonempty" class=" cursor-pointer relative text-dark-blue-s text-sm"><button type="button" aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-_r_t_" data-state="closed" class="">substrings</button></span> of <code>word</code> that contain every vowel (<code>'a'</code>, <code>'e'</code>, <code>'i'</code>, <code>'o'</code>, and <code>'u'</code>) <strong>at least</strong> once and <strong>exactly</strong> <code>k</code> consonants.</p>
+<p>Return the total number of <span data-keyword="substring-nonempty" class=" cursor-pointer relative text-dark-blue-s text-sm"><button type="button" aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-_r_bm_" data-state="closed" class="">substrings</button></span> of <code>word</code> that contain every vowel (<code>'a'</code>, <code>'e'</code>, <code>'i'</code>, <code>'o'</code>, and <code>'u'</code>) <strong>at least</strong> once and <strong>exactly</strong> <code>k</code> consonants.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
