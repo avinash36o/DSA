@@ -57,6 +57,7 @@ All solved problems organized by pattern/category.
 - [Minimum Number of Seconds to Make Mountain Height Zero](./LeetCode/Medium/Minimum%20Number%20of%20Seconds%20to%20Make%20Mountain%20Height%20Zero) - *Medium*
 
 ## Sliding Window
+- [Number of Substrings Containing All Three Characters](./LeetCode/Medium/Number%20of%20Substrings%20Containing%20All%20Three%20Characters) - *Medium*
 - [Count of Substrings Containing Every Vowel and K Consonants II](./LeetCode/Medium/Count%20of%20Substrings%20Containing%20Every%20Vowel%20and%20K%20Consonants%20II) - *Medium*
 - [Count of Substrings Containing Every Vowel and K Consonants I](./LeetCode/Medium/Count%20of%20Substrings%20Containing%20Every%20Vowel%20and%20K%20Consonants%20I) - *Medium*
 
