@@ -63,3 +63,6 @@ All solved problems organized by pattern/category.
 
 ## Stack
 - [Count Shadow Pairs I](./LeetCode/Medium/Count%20Shadow%20Pairs%20I) - *Medium*
+
+## Bit Manipulation
+- [Maximum Possible Number by Binary Concatenation](./LeetCode/Medium/Maximum%20Possible%20Number%20by%20Binary%20Concatenation) - *Medium*
