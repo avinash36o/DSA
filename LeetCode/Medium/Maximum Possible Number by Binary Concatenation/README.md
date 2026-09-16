@@ -8,12 +8,12 @@
 | **Solved On** | September 16, 2026 |
 | **Tags** | Array, Bit Manipulation, Enumeration |
 | **Link** | [View Problem](https://leetcode.com/problems/maximum-possible-number-by-binary-concatenation/) |
-| **Runtime** | 34 ms |
-| **Memory** | 26.6 MB |
+| **Runtime** | 0 ms |
+| **Memory** | 26.5 MB |
 
 ## Approach
 
-make all possible binary string and take the max out of it
+convert all three num into binary sort them on the basis of a+b>b+a. then concate them and convert them into decimal
 
 ## Problem Description
 
