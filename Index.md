@@ -48,6 +48,7 @@ All solved problems organized by pattern/category.
 - [Contiguous Array](./LeetCode/Medium/Contiguous%20Array) - *Medium*
 
 ## Trees
+- [K-th Largest Perfect Subtree Size in Binary Tree](./LeetCode/Medium/K-th%20Largest%20Perfect%20Subtree%20Size%20in%20Binary%20Tree) - *Medium*
 - [Count the Number of Good Nodes](./LeetCode/Medium/Count%20the%20Number%20of%20Good%20Nodes) - *Medium*
 
 ## Heap / Priority Queue
