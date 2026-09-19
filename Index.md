@@ -69,3 +69,6 @@ All solved problems organized by pattern/category.
 
 ## Bit Manipulation
 - [Maximum Possible Number by Binary Concatenation](./LeetCode/Medium/Maximum%20Possible%20Number%20by%20Binary%20Concatenation) - *Medium*
+
+## Two Pointers
+- [Next Permutation](./LeetCode/Medium/Next%20Permutation) - *Medium*
