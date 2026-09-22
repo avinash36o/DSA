@@ -66,6 +66,7 @@ All solved problems organized by pattern/category.
 - [Count of Substrings Containing Every Vowel and K Consonants I](./LeetCode/Medium/Count%20of%20Substrings%20Containing%20Every%20Vowel%20and%20K%20Consonants%20I) - *Medium*
 
 ## Stack
+- [Maximal Rectangle](./LeetCode/Hard/Maximal%20Rectangle) - *Hard*
 - [Count Shadow Pairs I](./LeetCode/Medium/Count%20Shadow%20Pairs%20I) - *Medium*
 
 ## Bit Manipulation
