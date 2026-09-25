@@ -28,6 +28,7 @@ All solved problems organized by pattern/category.
 - [Number of Provinces](./LeetCode/Medium/Number%20of%20Provinces) - *Medium*
 
 ## Arrays & Hashing
+- [Longest Consecutive Sequence](./LeetCode/Medium/Longest%20Consecutive%20Sequence) - *Medium*
 - [Adjacent Increasing Subarrays Detection II](./LeetCode/Medium/Adjacent%20Increasing%20Subarrays%20Detection%20II) - *Medium*
 - [Minimum Operations to Make Every Element Palindromic](./LeetCode/Medium/Minimum%20Operations%20to%20Make%20Every%20Element%20Palindromic) - *Medium*
 - [Cyclically Shift Rows and Columns](./LeetCode/Easy/Cyclically%20Shift%20Rows%20and%20Columns) - *Easy*
