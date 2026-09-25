@@ -76,4 +76,5 @@ All solved problems organized by pattern/category.
 - [Next Permutation](./LeetCode/Medium/Next%20Permutation) - *Medium*
 
 ## Uncategorized
+- [Count Values With Equally Spaced Occurrences II](./LeetCode/Medium/Count%20Values%20With%20Equally%20Spaced%20Occurrences%20II) - *Medium*
 - [Count Values With Equally Spaced Occurrences I](./LeetCode/Easy/Count%20Values%20With%20Equally%20Spaced%20Occurrences%20I) - *Easy*
