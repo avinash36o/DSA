@@ -29,6 +29,7 @@ All solved problems organized by pattern/category.
 - [Number of Provinces](./LeetCode/Medium/Number%20of%20Provinces) - *Medium*
 
 ## Arrays & Hashing
+- [Squares of a Sorted Array](./LeetCode/Easy/Squares%20of%20a%20Sorted%20Array) - *Easy*
 - [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) - *Easy*
 - [Replace Elements with Greatest Element on Right Side](./LeetCode/Easy/Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side) - *Easy*
 - [Max Consecutive Ones](./LeetCode/Easy/Max%20Consecutive%20Ones) - *Easy*
