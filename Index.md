@@ -29,6 +29,7 @@ All solved problems organized by pattern/category.
 - [Number of Provinces](./LeetCode/Medium/Number%20of%20Provinces) - *Medium*
 
 ## Arrays & Hashing
+- [Find Numbers with Even Number of Digits](./LeetCode/Easy/Find%20Numbers%20with%20Even%20Number%20of%20Digits) - *Easy*
 - [Maximum Good Subarray Sum](./LeetCode/Medium/Maximum%20Good%20Subarray%20Sum) - *Medium*
 - [Longest Consecutive Sequence](./LeetCode/Medium/Longest%20Consecutive%20Sequence) - *Medium*
 - [Adjacent Increasing Subarrays Detection II](./LeetCode/Medium/Adjacent%20Increasing%20Subarrays%20Detection%20II) - *Medium*
