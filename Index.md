@@ -84,6 +84,7 @@ All solved problems organized by pattern/category.
 - [Next Permutation](./LeetCode/Medium/Next%20Permutation) - *Medium*
 
 ## Uncategorized
+- [Third Maximum Number](./LeetCode/Easy/Third%20Maximum%20Number) - *Easy*
 - [Find Pivot Index](./LeetCode/Easy/Find%20Pivot%20Index) - *Easy*
 - [Merge k Sorted Lists](./LeetCode/Hard/Merge%20k%20Sorted%20Lists) - *Hard*
 - [Count Values With Equally Spaced Occurrences II](./LeetCode/Medium/Count%20Values%20With%20Equally%20Spaced%20Occurrences%20II) - *Medium*
