@@ -84,6 +84,7 @@ All solved problems organized by pattern/category.
 - [Next Permutation](./LeetCode/Medium/Next%20Permutation) - *Medium*
 
 ## Uncategorized
+- [Find the Index of the First Occurrence in a String](./LeetCode/Easy/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String) - *Easy*
 - [Set Matrix Zeroes](./LeetCode/Medium/Set%20Matrix%20Zeroes) - *Medium*
 - [Count Negative Numbers in a Sorted Matrix](./LeetCode/Easy/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix) - *Easy*
 - [Reshape the Matrix](./LeetCode/Easy/Reshape%20the%20Matrix) - *Easy*
