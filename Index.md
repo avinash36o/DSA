@@ -85,6 +85,7 @@ All solved problems organized by pattern/category.
 - [Next Permutation](./LeetCode/Medium/Next%20Permutation) - *Medium*
 
 ## Uncategorized
+- [Longest Common Prefix](./LeetCode/Easy/Longest%20Common%20Prefix) - *Easy*
 - [Reverse Words in a String III](./LeetCode/Easy/Reverse%20Words%20in%20a%20String%20III) - *Easy*
 - [Reverse Only Letters](./LeetCode/Easy/Reverse%20Only%20Letters) - *Easy*
 - [Rotate Image](./LeetCode/Medium/Rotate%20Image) - *Medium*
