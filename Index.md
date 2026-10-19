@@ -29,6 +29,7 @@ All solved problems organized by pattern/category.
 - [Number of Provinces](./LeetCode/Medium/Number%20of%20Provinces) - *Medium*
 
 ## Arrays & Hashing
+- [Special Positions in a Binary Matrix](./LeetCode/Easy/Special%20Positions%20in%20a%20Binary%20Matrix) - *Easy*
 - [Projection Area of 3D Shapes](./LeetCode/Easy/Projection%20Area%20of%203D%20Shapes) - *Easy*
 - [Image Smoother](./LeetCode/Easy/Image%20Smoother) - *Easy*
 - [Squares of a Sorted Array](./LeetCode/Easy/Squares%20of%20a%20Sorted%20Array) - *Easy*
