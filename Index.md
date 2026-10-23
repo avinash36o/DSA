@@ -83,6 +83,7 @@ All solved problems organized by pattern/category.
 - [Count Shadow Pairs I](./LeetCode/Medium/Count%20Shadow%20Pairs%20I) - *Medium*
 
 ## Bit Manipulation
+- [Maximum K to Sort a Permutation](./LeetCode/Easy/Maximum%20K%20to%20Sort%20a%20Permutation) - *Easy*
 - [Maximum Possible Number by Binary Concatenation](./LeetCode/Medium/Maximum%20Possible%20Number%20by%20Binary%20Concatenation) - *Medium*
 
 ## Two Pointers
