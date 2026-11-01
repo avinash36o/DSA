@@ -90,6 +90,7 @@ All solved problems organized by pattern/category.
 - [Next Permutation](./LeetCode/Medium/Next%20Permutation) - *Medium*
 
 ## Uncategorized
+- [Q1. Minimum Value of Merged Integers](./LeetCode/Easy/Q1%20Minimum%20Value%20of%20Merged%20Integers) - *Easy*
 - [Construct Quad Tree](./LeetCode/Medium/Construct%20Quad%20Tree) - *Medium*
 - [Toeplitz Matrix](./LeetCode/Easy/Toeplitz%20Matrix) - *Easy*
 - [Lucky Numbers in a Matrix](./LeetCode/Easy/Lucky%20Numbers%20in%20a%20Matrix) - *Easy*
