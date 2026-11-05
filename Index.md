@@ -90,6 +90,7 @@ All solved problems organized by pattern/category.
 - [Next Permutation](./LeetCode/Medium/Next%20Permutation) - *Medium*
 
 ## Uncategorized
+- [Merge Intervals](./LeetCode/Medium/Merge%20Intervals) - *Medium*
 - [Minimum Moves to Equal Array Elements III](./LeetCode/Easy/Minimum%20Moves%20to%20Equal%20Array%20Elements%20III) - *Easy*
 - [Minimum Operations to Sort With Locked Indices](./LeetCode/Medium/Minimum%20Operations%20to%20Sort%20With%20Locked%20Indices) - *Medium*
 - [Q2. Minimize the Maximum Value of GCD-Connected Array](./LeetCode/Medium/Q2%20Minimize%20the%20Maximum%20Value%20of%20GCD-Connected%20Array) - *Medium*
