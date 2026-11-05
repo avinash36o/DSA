@@ -8,8 +8,8 @@
 | **Solved On** | November 5, 2026 |
 | **Tags** | Hash Table, String, Sliding Window |
 | **Link** | [View Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
-| **Runtime** | 64 ms |
-| **Memory** | 19.2 MB |
+| **Runtime** | 8 ms |
+| **Memory** | 18.2 MB |
 
 ## Problem Description
 
