@@ -68,6 +68,7 @@ All solved problems organized by pattern/category.
 - [Count the Number of Good Nodes](./LeetCode/Medium/Count%20the%20Number%20of%20Good%20Nodes) - *Medium*
 
 ## Heap / Priority Queue
+- [Find Servers That Handled Most Number of Requests](./LeetCode/Easy/Find%20Servers%20That%20Handled%20Most%20Number%20of%20Requests) - *Easy*
 - [Number of Intersecting Interval Pairs II](./LeetCode/Medium/Number%20of%20Intersecting%20Interval%20Pairs%20II) - *Medium*
 - [K-th Nearest Obstacle Queries](./LeetCode/Medium/K-th%20Nearest%20Obstacle%20Queries) - *Medium*
 
