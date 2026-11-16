@@ -93,6 +93,7 @@ All solved problems organized by pattern/category.
 - [Next Permutation](./LeetCode/Medium/Next%20Permutation) - *Medium*
 
 ## Uncategorized
+- [Q1. Count Consistent Subarrays I](./LeetCode/Easy/Q1%20Count%20Consistent%20Subarrays%20I) - *Easy*
 - [Longest Substring Without Repeating Characters](./LeetCode/Medium/Longest%20Substring%20Without%20Repeating%20Characters) - *Medium*
 - [Merge Intervals](./LeetCode/Medium/Merge%20Intervals) - *Medium*
 - [Minimum Moves to Equal Array Elements III](./LeetCode/Easy/Minimum%20Moves%20to%20Equal%20Array%20Elements%20III) - *Easy*
