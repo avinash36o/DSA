@@ -29,6 +29,7 @@ All solved problems organized by pattern/category.
 - [Number of Provinces](./LeetCode/Medium/Number%20of%20Provinces) - *Medium*
 
 ## Arrays & Hashing
+- [Q1. Assign Umbrella on Rainy Days](./LeetCode/Easy/Q1%20Assign%20Umbrella%20on%20Rainy%20Days) - *Easy*
 - [Find All Duplicates in an Array](./LeetCode/Medium/Find%20All%20Duplicates%20in%20an%20Array) - *Medium*
 - [Trapping Rain Water](./LeetCode/Hard/Trapping%20Rain%20Water) - *Hard*
 - [Count Servers that Communicate](./LeetCode/Easy/Count%20Servers%20that%20Communicate) - *Easy*
