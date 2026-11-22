@@ -29,6 +29,7 @@ All solved problems organized by pattern/category.
 - [Number of Provinces](./LeetCode/Medium/Number%20of%20Provinces) - *Medium*
 
 ## Arrays & Hashing
+- [Count Dominant Elements](./LeetCode/Easy/Count%20Dominant%20Elements) - *Easy*
 - [Q2. Minimum Range After Sum Operations](./LeetCode/Medium/Q2%20Minimum%20Range%20After%20Sum%20Operations) - *Medium*
 - [Q1. Assign Umbrella on Rainy Days](./LeetCode/Easy/Q1%20Assign%20Umbrella%20on%20Rainy%20Days) - *Easy*
 - [Find All Duplicates in an Array](./LeetCode/Medium/Find%20All%20Duplicates%20in%20an%20Array) - *Medium*
